@@ -8,3 +8,6 @@ In order to be able to train the model we would need images of people wearing ma
 
 Image Dataset
 https://www.kaggle.com/andrewmvd/face-mask-detection
+
+View full and completed report here
+https://drive.google.com/file/d/1AhU9Y83A39xg_FT_Gc40cta-6LVxoZQY/view?usp=sharing
